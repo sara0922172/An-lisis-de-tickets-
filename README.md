@@ -1,1 +1,2 @@
 # An-lisis-de-tickets-
+Proyecto académico en el que se analizan tickets de soporte técnico simulados utilizando Excel. En este trabajo se aplican herramientas como tablas dinámicas, gráficos y fórmulas para el análisis de datos. El proceso comenzó con la limpieza manual de la información, eliminando datos duplicados y espacios vacíos, para posteriormente analizar los resultados e identificar patrones relevantes. Además, se utilizó inteligencia artificial como apoyo para comprender mejor el uso de Excel y optimizar el proceso de análisis.
